@@ -47,7 +47,7 @@ If you have questions, collaboration requests, or need help with setup:
 
 ## 👤 Author
 
-Developed by **Muhammad Yousuf**  
+Developed by **Yusuf**  
 Python Backend Developer | Automation Engineer
 
 ---
