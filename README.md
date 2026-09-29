@@ -1,3 +1,4 @@
+<img width="720" height="1280" alt="IMG-20260923-WA0000" src="https://github.com/user-attachments/assets/8aeb1796-a250-4338-bfea-b97b3d5bd5ee" />
 # Spain Visa Appointment Monitor & Automation Assistant
 
 ---
